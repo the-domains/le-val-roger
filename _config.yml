@@ -1,0 +1,28 @@
+name: Le Val Roger
+favicon: null
+layout_spectrum: 0.048581641633063555
+typography_spectrum: 0.6085285893641412
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5087808824609965
+  lightness: 0.9933883228804916
+  saturation: 0.13229976897127926
+  rhythmicContrast: 0.679786071414128
+purpose: []
