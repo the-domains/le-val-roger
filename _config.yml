@@ -1,28 +1,40 @@
-name: Le Val Roger
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6085285893641412
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0.7598566
+  lightness: 0.5
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.3125
-  lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.679786071414128
-purpose: []
+typography_spectrum: 0.9103943
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Le Val Roger
